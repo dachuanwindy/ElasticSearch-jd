@@ -12,7 +12,7 @@
     <artifactId>elasticsearch-jd</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>elasticsearch-jd</name>
-    <description>Demo project for Spring Boot</description>
+    <description>搜索引擎技术实现,通过ES数据库 实现搜索</description>
 
     <properties>
         <java.version>1.8</java.version>
