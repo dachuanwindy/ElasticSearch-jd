@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 /**
  * @version : V1.0
  * @ClassName: IndexController
- * @Description: TODO
+ * @Description:
  * @Auther: wangqiang
  * @Date: 2020/4/22 16:18
  */

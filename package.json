@@ -1,0 +1,22 @@
+{
+  "name": "elasticsearch-jd",
+  "version": "1.0.0",
+  "description": "学习ElasticSearch的入门实践，京东商城搜索风格。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dachuanwindy/ElasticSearch-jd.git"
+  },
+  "keywords": [
+    "dachuan2418"
+  ],
+  "author": "sunfengchuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dachuanwindy/ElasticSearch-jd/issues"
+  },
+  "homepage": "https://github.com/dachuanwindy/ElasticSearch-jd#readme"
+}

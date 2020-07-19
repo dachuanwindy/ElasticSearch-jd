@@ -22,13 +22,14 @@
 
                     <div class="header-extra" style="width: 600px">
                         <!--搜索-->
-                        <div id="mallSearch" class="mall-search" >
+                        <div id="mallSearch" class="mall-search">
                             <form name="searchTop" class="mallSearch-form clearfix">
                                 <fieldset>
                                     <div class="mallSearch-input clearfix">
                                         <div class="s-combobox" id="s-combobox-685">
                                             <div class="s-combobox-input-wrap">
-                                                <input v-model="keyword" type="text" autocomplete="off" value="dd" id="mq"
+                                                <input v-model="keyword" type="text" autocomplete="off" value="dd"
+                                                       id="mq"
                                                        class="s-combobox-input" aria-haspopup="true">
                                             </div>
                                         </div>
@@ -47,11 +48,11 @@
                         </div>
 
                     </div>
-                    <!--                            爬取数据-->
+                    <!--  爬取数据-->
                     <div style="float: right;margin-top: -45px">
-                        <form >
-                            <input v-model="keyword1" type="text" autocomplete="off"  >
-                            <button type="submit" @click.prevent="scrapyKey()" >爬取</button>
+                        <form>
+                            <input v-model="keyword1" type="text" autocomplete="off">
+                            <button type="submit" @click.prevent="scrapyKey()">爬取</button>
                         </form>
                     </div>
 

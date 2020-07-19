@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548cb807-e03f-415e-a19a-b8d834924500" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wangqiang/ElasticsearchJdApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wangqiang/config/ElasticSearchClientConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wangqiang/controller/ContentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wangqiang/controller/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wangqiang/pojo/Content.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wangqiang/service/ContentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wangqiang/utils/HtmlParseUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/images/jdlogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/axios.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/vue.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wangqiang/ElasticsearchJdApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wangqiang/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wangqiang/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wangqiang/utils/HtmlParseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wangqiang/utils/HtmlParseUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +51,6 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -73,7 +60,6 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
@@ -83,6 +69,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -102,7 +89,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ElasticsearchJdApplication">
+  <component name="RunManager" selected="Application.HtmlParseUtil">
     <configuration name="HtmlParseUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangqiang.utils.HtmlParseUtil" />
       <module name="elasticsearch-jd" />
@@ -129,18 +116,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -157,6 +132,7 @@
       <workItem from="1587554048977" duration="6143000" />
       <workItem from="1587562108950" duration="1940000" />
       <workItem from="1587565503448" duration="231000" />
+      <workItem from="1595125969409" duration="1170000" />
     </task>
     <servers />
   </component>
@@ -168,45 +144,53 @@
       <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state x="493" y="285" width="515" height="268" key="Github.ShareDialog/0.23.1280.724@0.23.1280.724" timestamp="1587565575431" />
-    <state width="1238" height="96" key="GridCell.Tab.0.bottom" timestamp="1587565348561">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1638" height="360" key="GridCell.Tab.0.bottom" timestamp="1595127331009">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1238" height="96" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587560090105" />
+    <state width="1638" height="360" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1595127331009" />
     <state width="1238" height="96" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1587565348561" />
-    <state width="1238" height="96" key="GridCell.Tab.0.center" timestamp="1587565348559">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1638" height="360" key="GridCell.Tab.0.center" timestamp="1595127331007">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1238" height="96" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1587560090103" />
+    <state width="1638" height="360" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1595127331007" />
     <state width="1238" height="96" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1587565348559" />
-    <state width="1238" height="96" key="GridCell.Tab.0.left" timestamp="1587565348559">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1638" height="360" key="GridCell.Tab.0.left" timestamp="1595127331006">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1238" height="96" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1587560090102" />
+    <state width="1638" height="360" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1595127331006" />
     <state width="1238" height="96" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1587565348559" />
-    <state width="1238" height="96" key="GridCell.Tab.0.right" timestamp="1587565348560">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1638" height="360" key="GridCell.Tab.0.right" timestamp="1595127331008">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1238" height="96" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1587560090104" />
+    <state width="1638" height="360" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1595127331008" />
     <state width="1238" height="96" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1587565348560" />
-    <state x="42" y="468" width="1238" height="96" key="GridCell.Tab.1.bottom" timestamp="1587565348563">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="42" y="468" width="1638" height="360" key="GridCell.Tab.1.bottom" timestamp="1595127331011">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="42" y="468" width="1238" height="96" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587560090109" />
+    <state width="1638" height="360" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1595127331011" />
     <state width="1238" height="96" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1587565348563" />
-    <state x="42" y="468" width="1238" height="96" key="GridCell.Tab.1.center" timestamp="1587565348562">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="42" y="468" width="1638" height="360" key="GridCell.Tab.1.center" timestamp="1595127331010">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="42" y="468" width="1238" height="96" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1587560090107" />
+    <state width="1638" height="360" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1595127331010" />
     <state width="1238" height="96" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1587565348562" />
-    <state x="42" y="468" width="1238" height="96" key="GridCell.Tab.1.left" timestamp="1587565348562">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="42" y="468" width="1638" height="360" key="GridCell.Tab.1.left" timestamp="1595127331009">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="42" y="468" width="1238" height="96" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1587560090106" />
+    <state width="1638" height="360" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1595127331009" />
     <state width="1238" height="96" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1587565348562" />
-    <state x="42" y="468" width="1238" height="96" key="GridCell.Tab.1.right" timestamp="1587565348563">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="42" y="468" width="1638" height="360" key="GridCell.Tab.1.right" timestamp="1595127331010">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="42" y="468" width="1238" height="96" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1587560090108" />
+    <state width="1638" height="360" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1595127331010" />
     <state width="1238" height="96" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1587565348563" />
     <state x="42" y="468" width="1238" height="237" key="GridCell.Tab.2.bottom" timestamp="1587553804153">
       <screen x="0" y="0" width="1280" height="800" />
@@ -253,5 +237,20 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="42" y="468" width="1238" height="253" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1587553804922" />
+    <state x="538" y="280" width="604" height="490" key="find.popup" timestamp="1595126235960">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="280" width="604" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595126235960" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wangqiang/utils/HtmlParseUtil.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
